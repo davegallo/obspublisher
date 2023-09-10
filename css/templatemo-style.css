@@ -57,7 +57,7 @@ p:last-child { margin-bottom: 0; }
 .navbar-row { position: relative; }
 .navbar-container {
 	background-color: #cc9900; 
-	font-size: 0.7em;
+	font-size: 0.6em;
 	position: absolute; 
 	display: -webkit-flex;
 	display: -ms-flexbox;
